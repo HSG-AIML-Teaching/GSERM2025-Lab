@@ -1,6 +1,6 @@
 # GSERM 2025 Deep Learning: Fundamentals and Applications 🏔️
 
-![Course Banner](banner.jpg)
+![Course Banner](banner_small.png)
 
 
 Grüezi! 🖐️ 
